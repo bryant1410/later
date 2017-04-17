@@ -9,7 +9,7 @@ Types of schedules supported by _Later_:
 * Gather CPU metrics every 10 mins Mon - Fri and every 30 mins Sat - Sun
 * Send out a scary e-mail at 13:13:13 every Friday the 13th
 
-####For complete documentation visit [http://bunkat.github.io/later/](http://bunkat.github.io/later/).
+#### For complete documentation visit [http://bunkat.github.io/later/](http://bunkat.github.io/later/).
 
 
 ## Installation
